@@ -7,6 +7,7 @@ public class Task5 {
         bitChange2(73, 3);
     }
 
+    // в случае, если бит под номером pos = 1, меняет его на 0
     public static void bitChange(int digit, int pos){
 
         if ((digit >> pos & 1) == 1){
@@ -18,6 +19,7 @@ public class Task5 {
         System.out.println(digit);
     }
 
+    // меняет на 0 тот бит, который был 1 под номером pos
     static void bitChange2(int digit, int pos){
         int count = 0;
         System.out.println(Integer.toBinaryString(digit));
