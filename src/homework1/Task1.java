@@ -35,7 +35,7 @@ public class Task1 {
         for (int i = 0; i < str.length(); i++) {
             c = str.charAt(str.length() - 1 - i);
             a = c == '1' ? 1 : 0;
-            res += (a * Math.pow(2, i));
+            res += a << i;
         }
         return res;
     }

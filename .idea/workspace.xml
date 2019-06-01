@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8484381-73dc-4ddb-ad06-4e910e449fa2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/class_cast_inheritance/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/class_cast_inheritance/B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/class_cast_inheritance/C.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/class_cast_inheritance/D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/class_cast_inheritance/E.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/class_cast_inheritance/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework1/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EpamHomework/Hello2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EpamHomework/classwork/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EpamHomework/classwork/class_cast_inheritance/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EpamHomework/classwork/class_cast_inheritance/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EpamHomework/classwork/class_cast_inheritance/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EpamHomework/classwork/class_cast_inheritance/D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EpamHomework/classwork/class_cast_inheritance/E.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EpamHomework/classwork/class_cast_inheritance/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EpamHomework/homework1/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EpamHomework/homework1/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EpamHomework/homework1/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EpamHomework/homework1/Task5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework1/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/Task3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,50 +25,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1652861563">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.41" value="1" />
-          <entry key="project.open.time.44" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="2699" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2699" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/homework1/Task3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+            <state relative-caret-position="255">
+              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -81,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/homework1/Task1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+            <state relative-caret-position="629">
+              <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -91,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/src/homework1/Task5.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -114,16 +81,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/homework1/Task2.java" />
-        <option value="$PROJECT_DIR$/src/homework1/Task1.java" />
         <option value="$PROJECT_DIR$/src/homework1/Task4.java" />
         <option value="$PROJECT_DIR$/src/classwork/class_cast_inheritance/D.java" />
         <option value="$PROJECT_DIR$/src/classwork/class_cast_inheritance/C.java" />
         <option value="$PROJECT_DIR$/src/classwork/class_cast_inheritance/Test.java" />
         <option value="$PROJECT_DIR$/src/classwork/class_cast_inheritance/B.java" />
         <option value="$PROJECT_DIR$/src/classwork/class_cast_inheritance/A.java" />
-        <option value="$PROJECT_DIR$/src/homework1/Task3.java" />
         <option value="$PROJECT_DIR$/src/Hello2.java" />
         <option value="$PROJECT_DIR$/src/homework1/Task5.java" />
+        <option value="$PROJECT_DIR$/src/homework1/Task1.java" />
+        <option value="$PROJECT_DIR$/src/homework1/Task3.java" />
       </list>
     </option>
   </component>
@@ -138,7 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,16 +122,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559300123202" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559386320767" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hello2">
+  <component name="RunManager" selected="Application.Task3">
     <configuration name="Hello2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello2" />
       <module name="EpamHomework" />
@@ -186,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework1.Task3" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework1.Task1" />
       <module name="EpamHomework" />
       <extension name="coverage">
         <pattern>
@@ -199,8 +167,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework1.Task4" />
+    <configuration name="Task3" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework1.Task3" />
       <module name="EpamHomework" />
       <extension name="coverage">
         <pattern>
@@ -240,18 +208,17 @@
     </configuration>
     <list>
       <item itemvalue="Application.Task3" />
-      <item itemvalue="Application.Task4" />
       <item itemvalue="Application.Task5" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Hello2" />
+      <item itemvalue="Application.Task1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Hello2" />
         <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>
@@ -266,12 +233,21 @@
       <option name="presentableId" value="Default" />
       <updated>1559032153742</updated>
     </task>
+    <task id="LOCAL-00001" summary="First homework">
+      <created>1559301802416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559301802416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26492536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2750533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -288,7 +264,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -299,8 +276,9 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="First homework" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Integer.java">
@@ -319,69 +297,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classwork.java" />
     <entry file="file://$PROJECT_DIR$/src/classwork/class_cast_inheritance.java" />
-    <entry file="file://$PROJECT_DIR$/src/classwork/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classwork/class_cast_inheritance/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classwork/class_cast_inheritance/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classwork/class_cast_inheritance/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classwork/class_cast_inheritance/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classwork/class_cast_inheritance/D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classwork/class_cast_inheritance/E.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hello2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-end-line="1" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classwork/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/classwork/class_cast_inheritance/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/classwork/class_cast_inheritance/B.java" />
+    <entry file="file://$PROJECT_DIR$/src/classwork/class_cast_inheritance/C.java" />
+    <entry file="file://$PROJECT_DIR$/src/classwork/class_cast_inheritance/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/classwork/class_cast_inheritance/D.java" />
+    <entry file="file://$PROJECT_DIR$/src/classwork/class_cast_inheritance/E.java" />
+    <entry file="file://$PROJECT_DIR$/src/Hello2.java" />
     <entry file="file://$PROJECT_DIR$/src/homework1/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        <state relative-caret-position="255">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework1/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -392,17 +326,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/homework1/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/homework1/Task5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
         </state>
       </provider>
     </entry>

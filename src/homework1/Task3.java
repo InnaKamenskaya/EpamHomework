@@ -6,7 +6,7 @@ public class Task3 {
        int integer = 34543262;
        byte b = 121;
        long l = 123123547818739317L;
-       short sh = 2345;
+       short sh  = 2345;
        countBits(l);
        countBits(integer);
        countBits(b);
